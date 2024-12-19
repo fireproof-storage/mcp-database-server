@@ -4,6 +4,8 @@ This is a simple example of how to use a [Fireproof](https://fireproof.storage/)
 
 This demo server implements a basic JSON document store with CRUD operations (Create, Read, Update, Delete) and the ability to query documents sorted by any field.
 
+<a href="https://glama.ai/mcp/servers/1p6uu10u9a"><img width="380" height="200" src="https://glama.ai/mcp/servers/1p6uu10u9a/badge" alt="mcp-database-server MCP server" /></a>
+
 # Installation
 
 Install dependencies:
